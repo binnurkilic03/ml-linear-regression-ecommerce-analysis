@@ -1,6 +1,4 @@
-# ml-linear-regression-ecommerce-analysis
-
-# Linear Regression Analysis for E-commerce Customer Data
+# Machine Learning, Linear Regression Analysis for E-commerce Customer Data
 
 ## Project Overview
 
